@@ -93,8 +93,8 @@ git commit -m "feat: Initial release of Capital Gardens City Executive Assistant
 # 4. تعيين الفرع الأساسي main
 git branch -M main
 
-# 5. ربط المستودع بمستودعك الجديد على GitHub (استبدل YOUR_USERNAME و YOUR_REPO)
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+# 5. ربط المستودع بمستودعك على GitHub
+git remote add origin https://github.com/elashmawey/Capital-Gardens-City-Executive-Platform.git
 
 # 6. رفع الملفات إلى GitHub
 git push -u origin main
